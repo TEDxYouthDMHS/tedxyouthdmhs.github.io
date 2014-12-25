@@ -4,9 +4,13 @@ title: TEDxYouth@DMHS 에 대하여
 permalink: /about/
 ---
 
-# TED 란?
-TED는 “퍼뜨릴만한 가치가 있는 아이디어”에 헌신하는 비영리 단체입니다. 캘리포니아에서 25년 전 4일에 걸쳐 진행된 초대 TED이후로, TED는 세상을 바꿀수 있는 아이디어를 다양한 방법으로 지지하는 단체로 커 왔습니다. TED는 매년 열리는 컨퍼런스이며, 세상을 바꾸고 있는 연사들을 초청해 18분 동안 말하게 합니다. 그리고 그들의 토크들은 TED.com에 무료로 올려지게 됩니다. TED에서 말한 사람들은 빌 게이츠, 알 고어, 제인 구달이 있습니다.
+# About TEDx, x = independently organized event
+In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
 
-# TEDx 란?
+# About TED
+TED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 30 years ago, TED has grown to support its mission with multiple initiatives. The two annual TED Conferences invite the world's leading thinkers and doers to speak for 18 minutes or less. Many of these talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani, Philippe Starck, Ngozi Okonjo-Iweala, Sal Khan and Daniel Kahneman.
 
-TEDx의 x란 독립적으로 조직되는 이벤트라는 뜻입니다. TEDx는 TED로부터의 라이선스를 통해 지역사회에서 독립적으로 조직하도록 하는 TED의 브랜딩 프로그램으로 지역사회에서 TED스러운 경험을 사람들과 나누기 위해 개최되는 이벤트입니다. TEDx 이벤트에서는 TED Talks 영상과 실제 연사들의 강연이 결합되어 작은 그룹 안에서 깊은 토론과 상호 관계를 유발시킵니다.
+The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
+
+Follow TED on Twitter at http://twitter.com/TEDTalks, or on Facebook at http://www.facebook.com/TED.
+
