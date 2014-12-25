@@ -1,11 +1,12 @@
 ---
-layout: page
-title: About
+layout: default
+title: TEDxYouth@DMHS 에 대하여
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# TED 란?
+TED는 “퍼뜨릴만한 가치가 있는 아이디어”에 헌신하는 비영리 단체입니다. 캘리포니아에서 25년 전 4일에 걸쳐 진행된 초대 TED이후로, TED는 세상을 바꿀수 있는 아이디어를 다양한 방법으로 지지하는 단체로 커 왔습니다. TED는 매년 열리는 컨퍼런스이며, 세상을 바꾸고 있는 연사들을 초청해 18분 동안 말하게 합니다. 그리고 그들의 토크들은 TED.com에 무료로 올려지게 됩니다. TED에서 말한 사람들은 빌 게이츠, 알 고어, 제인 구달이 있습니다.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+# TEDx 란?
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+TEDx의 x란 독립적으로 조직되는 이벤트라는 뜻입니다. TEDx는 TED로부터의 라이선스를 통해 지역사회에서 독립적으로 조직하도록 하는 TED의 브랜딩 프로그램으로 지역사회에서 TED스러운 경험을 사람들과 나누기 위해 개최되는 이벤트입니다. TEDx 이벤트에서는 TED Talks 영상과 실제 연사들의 강연이 결합되어 작은 그룹 안에서 깊은 토론과 상호 관계를 유발시킵니다.
