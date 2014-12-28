@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: TEDxYouth@DMHS 에 대하여
 permalink: /about/
 ---

@@ -11,9 +11,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #FFF;
+$text-color:       #000;
 $background-color: #FFF;
 $brand-color:      #FFF;
+
+$link-color: #000;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -29,22 +31,45 @@ $on-laptop:        800px;
 	font-family: Helvetica, Arial, sans-serif;
 }
 
+header.site-header {
+	height: 100%;
+	margin-bottom: 10px;
+}
+
 a,a:hover {
 	text-decoration: none;
-	color: #FFF;
+	color: $link-color
 }
 
 .logo {
-	width: 300px;
+	width: 500px;
 	margin: 15px 0 0 15px;
+	display: inline;
+	
 }
 
 span.staff {
 	display: block;
 }
 
-.name {
-	
+p {
+	margin: 0;
+}
+
+p.second {
+	font-size: 20px;
+	color: #FFF;
+}
+
+.big-picture {
+	padding-left: 50px;
+}
+
+h1.hello {
+	color: #FFF;
+	margin: 0;
+	font-size: 50px;
+	padding-top: 130px;
 }
 
 span.staff:first-child{
@@ -74,23 +99,44 @@ li.staff {
 	margin: auto;
 }
 
+.menu {
+	display: inline;
+}
+
 .menu-list {
+	position: absolute;
 	list-style-type: none;
 	padding: 0;
-	background-color: #9e9e9e;
-	color: #FFF;
-	padding: 20px;
+	margin: 0;	
+	top: 50px;
+	right: 200px;
+	display: inline-block;
+	color: $text-color;
+}
+
+footer p{
+	font-size: 14px;
+	margin-top: 15px;
 }
 
 .menu-list li {
 	display: inline;
+	border-bottom: 2px solid #616161;
+	padding-bottom: 1px;
 	margin: 0 10px;
-	padding: 10px;
+}
+
+.post {
+	width: 850px;
+	padding: 0;
+	line-height: 18px;
+	margin: auto;
 }
 
 .menu-list li:hover {
-	background-color:  #f44336;
+	border-bottom: 2px solid #F44336;
 }
+
 
 .under-construction {
 	margin: auto;
@@ -103,7 +149,7 @@ li.staff {
 .big-picture {
 	width: 100%;
 	height: 340px;
-	background-color: #424242;
+	background-color: #616161;
 	
 }
 
