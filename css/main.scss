@@ -69,7 +69,7 @@ h1.hello {
 	color: #FFF;
 	margin: 0;
 	font-size: 50px;
-	padding-top: 130px;
+	padding-top: 60px;
 }
 
 .title {
@@ -141,6 +141,14 @@ footer p{
 	border-bottom: 2px solid #F44336;
 }
 
+p.mailing {
+	margin-top: 10px;
+}
+
+#mce-EMAIL {
+	font-size: 16px;
+}
+
 
 .under-construction {
 	margin: auto;
@@ -157,10 +165,34 @@ footer p{
 	
 }
 
+.big-picture-inner {
+	width: 800px;
+	
+}
+
 footer {
 	width: 1050px;
 	text-align: center;
 	margin: auto;
+}
+
+
+#mc_embed_signup {
+	background-color: #616161;
+	width: 500px;
+	height: 100px;
+	color: #FFF;
+	margin-top: 1px;
+	padding: 0;
+}
+#mc-embedded-subscribe-form	{
+	padding: 0 !important;
+	margin: 0;
+}
+
+#mc_embed_signup label {
+	font-size: 20px !important;
+	font-weight: normal !important;
 }
 
 // Using media queries with like this:
