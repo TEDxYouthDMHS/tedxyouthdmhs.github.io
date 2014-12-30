@@ -4,13 +4,12 @@ title: TEDxYouth@DMHS 에 대하여
 permalink: /about/
 ---
 
-# About TEDx, x = independently organized event
-In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
+# TEDx에 관하여, x = 독립적으로 조직된 TED 이벤트
+“퍼뜨릴만한 가치가 있는 아이디어” 의 정신 아래, TEDx는 TED 같은 경험을 사람들이 함께 나누게 하는, 지역에서 자체적으로 조직되는 이벤트 입니다. TEDx이벤트에서는 TED Talk 비디오와 이벤트 연사들이 함께 깊은 유대와 논의를 이끌어냅니다. 지역에서 자체적으로 조직된 이벤트는 TEDx로 브랜딩 되며, x = 독립적으로 조직된 TED 이벤트라는 뜻입니다. TED 협회는 TEDx 프로그램에 안내는 제공하지만 개별적인 TEDx 이벤트는 자체적으로 조직됩니다. 
 
-# About TED
-TED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 30 years ago, TED has grown to support its mission with multiple initiatives. The two annual TED Conferences invite the world's leading thinkers and doers to speak for 18 minutes or less. Many of these talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani, Philippe Starck, Ngozi Okonjo-Iweala, Sal Khan and Daniel Kahneman.
+# TED에 대하여
+TED는 “퍼뜨릴 가치가 있는 아이디어”에 헌신하는 비영리 단체입니다. 30년 전 캘리포니아에서 4일간의 강연으로 시작했고, TED는 TED의 이념을 여러 계획들과 함께 지지하며 발전해왔습니다. 매년 열리는 두 개의 TED 강연은 세계를 선도하는 선구자들과 행동가들을 초대해서 18분 혹은 그 보다 적은 시간 동안 연설을 하게 합니다. 이 강연들은 TED.com 에서 무료로 접근하는 것이 가능합니다. TED 강연자들은 빌 게이츠, 제인 구달, 엘리자베스 길버트, 리처드 브랜슨, 나단 나일카니, 필립 스탁, 응고지 오콘조 이웰라, 살만 칸 그리고 대니얼 카너먼 등이 있습니다.
 
-The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
+매년 봄에 TED 강연은 밴쿠버, 영국의 콜럼비아에서 Whislter 근처의 TEDActive 동시 방송과 함께 개최됩니다. 연년 행사인 TEDGlobal 강연은 브라질의 리우 데 자네이루에서 이번 10월에 개최될 것입니다. TED의 미디어 단체는 매일 새로운 TED 강연이 게시되는 TED.com, 강연의 부제목과 전세계의 자원봉사자들의 번역으로 구성되는 상호보완적인 번역본을 제공하는 Open Translation Project, 교육을 목적으로 하는 단체인 TED-Ed 등이 있습니다. TED는 뛰어난 사람들이 세상을 바꾸겠다는 소망으로 그들의 소망이 실천이 될 수 있게 도움을 얻는 TED Prize(매년 수여되는) 를 수여해왔습니다. 특정 지역에서 이루어지는 개개인들, 혹은 단체를 지원하는 TEDx는 세계 곳곳에서 TED방식의 행사와 지구 전역에 있는 세계를 바꾸는 혁신자들이 그들의 놀라운 프로젝트와 활동의 영향을 널리 퍼뜨릴 수 있도록 하는 TED Fellows 프로그램을 지원합니다.
 
-Follow TED on Twitter at http://twitter.com/TEDTalks, or on Facebook at http://www.facebook.com/TED.
-
+TED를 트위터 http://twitter.com/TEDTalks 에서 팔로우 하시거나, 페이스북 http://www.facebook.com/TED 에서 만나보세요.
