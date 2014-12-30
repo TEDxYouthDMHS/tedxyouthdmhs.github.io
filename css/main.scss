@@ -94,7 +94,7 @@ li.staff {
 }
 
 .wrapper {
-	width: 1050px;
+	width: 950px;
 	margin: auto;
 }
 
@@ -202,10 +202,52 @@ footer {
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+@media (max-width: $on-palm) {
+	.wrapper {
+		width: 100%;
+		font-size: 10px;
+	}
+	
+	.logo {
+		width: 300px;
+	}
+	
+	h1.hello {
+		font-size: 20px;
+		
+	}
+	
+	 p.second {
+		font-size: 15px;
+		
+	}
+	
+	.site-header {
+		width: 300px;
+		min-height: 200px;
+	}
+	
+	#mc_embed_signup {
+		width: 30%;
+		
+	}
+	
+	ul.menu-list {
+		position: absolute;
+		list-style-type: none;
+		padding-top: 30px;
+		display: block;
+		color: $text-color;
+	}
+	
+	.menu-list li {
+		display: block;
+	}
+	
+	footer {
+		width: 300px;
+		
+	}
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
