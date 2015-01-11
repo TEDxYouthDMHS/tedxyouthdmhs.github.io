@@ -123,17 +123,23 @@ hr {
 
 .menu {
 	display: inline;
+	min-height: 300px !important;
 }
 
 .menu-list {
-	position: absolute;
+	position: relative;
 	list-style-type: none;
 	padding: 0;
 	margin: 0;	
-	top: 50px;
-	right: 230px;
 	display: inline-block;
 	color: $text-color;
+  top: -20px;
+	
+	/*
+	position: absolute;
+	top: 50px;
+	right: 230px;
+	*/
 }
 
 footer p{
@@ -219,6 +225,7 @@ footer {
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+/*
 @media (max-width: $on-palm) {
 	.wrapper {
 		width: 100%;
@@ -266,7 +273,7 @@ footer {
 		
 	}
 }
-
+*/
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
