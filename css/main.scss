@@ -36,6 +36,16 @@ header.site-header {
 	margin-bottom: 10px;
 }
 
+.post-content {
+	line-height: 1.5em;
+	color: #424242;
+}
+
+.post-content h1 {
+	margin-bottom: 10px;
+	color: #212121;
+}
+
 a,a:hover {
 	text-decoration: none;
 	color: $link-color
