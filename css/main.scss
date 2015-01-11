@@ -58,10 +58,6 @@ a,a:hover {
 	
 }
 
-span.staff {
-	display: block;
-}
-
 p {
 	margin: 0;
 }
@@ -93,14 +89,29 @@ span.staff:first-child{
 
 ul.staff-list {
   margin: 0 auto;
-  text-align: center;
 	list-style-type: none;
 }
 
 li.staff {
-  display: inline-block;
-  vertical-align: top;
+  display: block;	
+}
+
+.staff.title {
+	display: block;
+	left: 155px;
+	font-size: 15px;
 	
+}
+
+.name {
+	display: inline-block;
+	font-size: 25px;
+	
+}
+
+span.staff {
+	position: relative;
+	top: -130px;
 }
 
 .wrapper {
@@ -180,6 +191,7 @@ p.mailing {
 
 .staff-image {
 	margin-top: 5px;
+	display: inline;
 }
 
 .big-picture {
