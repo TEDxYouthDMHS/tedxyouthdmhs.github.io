@@ -92,6 +92,11 @@ ul.staff-list {
 	list-style-type: none;
 }
 
+ul.speaker {
+  list-style-type: none;
+  padding: 0;
+}
+
 li.staff {
   display: block;	
 }
@@ -202,7 +207,6 @@ p.mailing {
 
 .big-picture-inner {
 	width: 800px;
-	
 }
 
 footer {
