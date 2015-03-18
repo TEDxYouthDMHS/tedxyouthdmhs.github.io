@@ -71,6 +71,17 @@ p.second {
 	padding-left: 50px;
 }
 
+a.register {  
+  color:#e74c3c;
+  margin: 0 auto;
+  text-decoration: underline;
+}
+
+a.register:hover {
+  color:#c0392b;
+}
+
+
 h1.hello {
 	color: #FFF;
 	margin: 0;
